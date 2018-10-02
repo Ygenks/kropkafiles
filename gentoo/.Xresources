@@ -1,0 +1,47 @@
+
+XTerm*utf8Title: true
+XTerm*faceName: Dejavu Sans Mono
+XTerm*faceSize: 11
+xterm*bolfFont: 
+xterm*scrollBar:        false
+XTerm*locale: true
+xterm*geometry:         80x50
+xterm*eightBitInput:    false
+xterm*metaSendsEscape:  true
+xterm*colorBDMode:      true
+xterm*boldMode:         on
+xterm*alwaysBoldMode:   false
+xterm*dynamicColors:    on
+xterm*colorMode:        on
+xterm*saveLines:        10000
+xterm*visualBell:       false
+
+
+xterm*colorBD:     #e6d51d
+xterm*background:  #111111
+xterm*foreground:  #b4b4b4
+
+xterm*color0:      #000000
+xterm*color8:      #555753
+
+xterm*color1:      #b6212d
+xterm*color9:      #ff6565
+
+xterm*color2:      #4c8d00
+xterm*color10:     #6bbe1a
+
+xterm*color3:      #ff8040
+xterm*color11:     #e6d51d
+
+xterm*color4:      #0086d2
+xterm*color12:     #00d2ff
+
+xterm*color5:      #963c59
+xterm*color13:     #d3649f
+
+xterm*color6:      #105952
+xterm*color14:     #177f75
+
+xterm*color7:      #cdcaa9
+xterm*color15:     #ffffff
+

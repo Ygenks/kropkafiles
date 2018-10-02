@@ -1,0 +1,14 @@
+"mpc toggle"
+	XF86AudioPlay
+"mpc next"
+	XF86AudioNext
+
+"mpc prev"
+	XF86AudioPrev
+
+"mpc volume +5"
+	XF86AudioRaiseVolume
+
+"mpc volume -5"
+	XF86AudioLowerVolume
+

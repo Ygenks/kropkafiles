@@ -1,0 +1,4 @@
+#!/bin/bash
+feh --bg-scale tumblr_static_spaceimg2.jpg
+
+
